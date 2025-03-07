@@ -1,0 +1,5 @@
+Đây là một đoạn văn bản mẫu để kiểm tra thuật toán nén Huffman.
+Thuật toán nén Huffman là một thuật toán nén không mất dữ liệu phổ biến,
+được sử dụng trong nhiều ứng dụng nén dữ liệu như định dạng JPEG, MP3, và nhiều định dạng nén khác.
+Thuật toán này hoạt động dựa trên việc phân tích tần suất xuất hiện của các ký tự trong dữ liệu
+và xây dựng mã có độ dài biến đổi cho mỗi ký tự dựa trên tần suất xuất hiện của chúng.
